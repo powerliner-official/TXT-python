@@ -1,4 +1,12 @@
-# Text_python_powerliner
+# Text\_python\_powerliner
+
 کار با فایل های تکست در پایتون
+
 # work with Text in python
+
 این بخشی از آموزش اصلی میباشد و به زودی در دسترس قرار خواهد گرفت.
+
+\#note
+
+به زودی آموزش شروع می‌شود.
+
