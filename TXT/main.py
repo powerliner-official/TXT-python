@@ -1,3 +1,3 @@
 # This is a sample Python script.
-age = 22
+age = 25
 print(age)
