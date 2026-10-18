@@ -1,3 +1,4 @@
 # This is a sample Python script.
-age = 25
-print(age)
+age = 48
+
+print(f"your age is{age}")
